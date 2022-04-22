@@ -23,12 +23,14 @@ permalink: /
 
 #### 2.主なゲーム  
      1.モンスターハンター  
+     ![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.capcom.co.jp%2Fmonsterhunter%2Frise%2Fassets%2Fimages%2Flogo.png&imgrefurl=https%3A%2F%2Fwww.capcom.co.jp%2Fmonsterhunter%2Frise%2F&tbnid=E1NzcOuSnTQXhM&vet=12ahUKEwippIuavaf3AhUhzIsBHXOEAmEQMygRegUIARDpAQ..i&docid=3iXZ037BQ-Q70M&w=630&h=358&q=capcom%20モンハン&client=safari&ved=2ahUKEwippIuavaf3AhUhzIsBHXOEAmEQMygRegUIARDpAQ)
      2.バイオハザード  
      3.ストリートファイター  
     
 #### 3.好きなところ  
  　自分が好きなところは次々に新しいことにチャレンジしていて同じ作品でもナンバリングが変わればゲーム性などがガラッと変わり同じゲームでも飽きない工夫が常にされていることが特に好きです。  
  　また、いろんなメジャーゲームを生み出していて、いろんなゲームデバイスでできるようになっています。
+   
   
   > 株式会社カプコン：CAPCOM WORLD JAPAN(https://www.capcom.co.jp/ir/)
 
