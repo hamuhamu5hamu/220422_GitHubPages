@@ -8,6 +8,7 @@ permalink: /
 
 今回は僕が好きなゲーム会社のCAPCOMについて紹介します。
 
+
 ## 目次
 
 ### 1.会社紹介
@@ -19,11 +20,11 @@ permalink: /
 ---
 
 #### 1.会社紹介  
+
   **CAPCOMは大阪に本社を置くゲームソフトメーカーで、オリジナリティあふれるゲームソフト開発力があり、人気コンテンツを多面展開していることが特徴です。**
 
 #### 2.主なゲーム  
      1.モンスターハンター  
-     ![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.capcom.co.jp%2Fmonsterhunter%2Frise%2Fassets%2Fimages%2Flogo.png&imgrefurl=https%3A%2F%2Fwww.capcom.co.jp%2Fmonsterhunter%2Frise%2F&tbnid=E1NzcOuSnTQXhM&vet=12ahUKEwippIuavaf3AhUhzIsBHXOEAmEQMygRegUIARDpAQ..i&docid=3iXZ037BQ-Q70M&w=630&h=358&q=capcom%20モンハン&client=safari&ved=2ahUKEwippIuavaf3AhUhzIsBHXOEAmEQMygRegUIARDpAQ)
      2.バイオハザード  
      3.ストリートファイター  
     
